@@ -1,0 +1,24 @@
+body{
+    background-color: #C4DFE6;
+    color: #003B46
+}
+
+.main{
+    background-color: #66A5AD;
+}
+
+.title{
+    text-align: center;
+
+}
+
+.profile{
+    width: 50%;
+     
+}
+
+.profilediv{
+    margin-top: 2%;
+    background-color: #C4DFE6;
+
+}
